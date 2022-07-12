@@ -1,0 +1,16 @@
+{
+  "name": "send-tweets-to-telegram",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ac2f",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "node-telegram-bot-api": "^0.58.0",
+    "puppeteer": "^15.3.1"
+  }
+}
